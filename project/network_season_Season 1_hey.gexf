@@ -1,0 +1,1014 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-11-20">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="total_interactions" type="long" />
+    </attributes>
+    <nodes>
+      <node id="eddard stark" label="eddard stark">
+        <attvalues>
+          <attvalue for="0" value="1646" />
+        </attvalues>
+      </node>
+      <node id="robert baratheon" label="robert baratheon">
+        <attvalues>
+          <attvalue for="0" value="610" />
+        </attvalues>
+      </node>
+      <node id="daenerys targaryen" label="daenerys targaryen">
+        <attvalues>
+          <attvalue for="0" value="735" />
+        </attvalues>
+      </node>
+      <node id="jorah mormont" label="jorah mormont">
+        <attvalues>
+          <attvalue for="0" value="501" />
+        </attvalues>
+      </node>
+      <node id="petyr baelish" label="petyr baelish">
+        <attvalues>
+          <attvalue for="0" value="584" />
+        </attvalues>
+      </node>
+      <node id="cersei lannister" label="cersei lannister">
+        <attvalues>
+          <attvalue for="0" value="611" />
+        </attvalues>
+      </node>
+      <node id="arya stark" label="arya stark">
+        <attvalues>
+          <attvalue for="0" value="600" />
+        </attvalues>
+      </node>
+      <node id="sam" label="sam">
+        <attvalues>
+          <attvalue for="0" value="345" />
+        </attvalues>
+      </node>
+      <node id="jon snow" label="jon snow">
+        <attvalues>
+          <attvalue for="0" value="855" />
+        </attvalues>
+      </node>
+      <node id="shae" label="shae">
+        <attvalues>
+          <attvalue for="0" value="192" />
+        </attvalues>
+      </node>
+      <node id="tyrion lannister" label="tyrion lannister">
+        <attvalues>
+          <attvalue for="0" value="1079" />
+        </attvalues>
+      </node>
+      <node id="robb stark" label="robb stark">
+        <attvalues>
+          <attvalue for="0" value="521" />
+        </attvalues>
+      </node>
+      <node id="catelyn stark" label="catelyn stark">
+        <attvalues>
+          <attvalue for="0" value="750" />
+        </attvalues>
+      </node>
+      <node id="bronn" label="bronn">
+        <attvalues>
+          <attvalue for="0" value="161" />
+        </attvalues>
+      </node>
+      <node id="varys" label="varys">
+        <attvalues>
+          <attvalue for="0" value="224" />
+        </attvalues>
+      </node>
+      <node id="viserys targaryen" label="viserys targaryen">
+        <attvalues>
+          <attvalue for="0" value="332" />
+        </attvalues>
+      </node>
+      <node id="theon greyjoy" label="theon greyjoy">
+        <attvalues>
+          <attvalue for="0" value="383" />
+        </attvalues>
+      </node>
+      <node id="grand maester pycelle" label="grand maester pycelle">
+        <attvalues>
+          <attvalue for="0" value="218" />
+        </attvalues>
+      </node>
+      <node id="jaime lannister" label="jaime lannister">
+        <attvalues>
+          <attvalue for="0" value="405" />
+        </attvalues>
+      </node>
+      <node id="tywin lannister" label="tywin lannister">
+        <attvalues>
+          <attvalue for="0" value="168" />
+        </attvalues>
+      </node>
+      <node id="jeor mormont" label="jeor mormont">
+        <attvalues>
+          <attvalue for="0" value="208" />
+        </attvalues>
+      </node>
+      <node id="sansa stark" label="sansa stark">
+        <attvalues>
+          <attvalue for="0" value="583" />
+        </attvalues>
+      </node>
+      <node id="joffrey lannister" label="joffrey lannister">
+        <attvalues>
+          <attvalue for="0" value="243" />
+        </attvalues>
+      </node>
+      <node id="septa mordane" label="septa mordane">
+        <attvalues>
+          <attvalue for="0" value="141" />
+        </attvalues>
+      </node>
+      <node id="jory cassel" label="jory cassel">
+        <attvalues>
+          <attvalue for="0" value="164" />
+        </attvalues>
+      </node>
+      <node id="syrio forel" label="syrio forel">
+        <attvalues>
+          <attvalue for="0" value="127" />
+        </attvalues>
+      </node>
+      <node id="lysa arryn" label="lysa arryn">
+        <attvalues>
+          <attvalue for="0" value="143" />
+        </attvalues>
+      </node>
+      <node id="mirri maz duur" label="mirri maz duur">
+        <attvalues>
+          <attvalue for="0" value="102" />
+        </attvalues>
+      </node>
+      <node id="ros" label="ros">
+        <attvalues>
+          <attvalue for="0" value="185" />
+        </attvalues>
+      </node>
+      <node id="maester luwin" label="maester luwin">
+        <attvalues>
+          <attvalue for="0" value="175" />
+        </attvalues>
+      </node>
+      <node id="bran stark" label="bran stark">
+        <attvalues>
+          <attvalue for="0" value="311" />
+        </attvalues>
+      </node>
+      <node id="grenn" label="grenn">
+        <attvalues>
+          <attvalue for="0" value="167" />
+        </attvalues>
+      </node>
+      <node id="renly baratheon" label="renly baratheon">
+        <attvalues>
+          <attvalue for="0" value="155" />
+        </attvalues>
+      </node>
+      <node id="loras tyrell" label="loras tyrell">
+        <attvalues>
+          <attvalue for="0" value="64" />
+        </attvalues>
+      </node>
+      <node id="rakharo" label="rakharo">
+        <attvalues>
+          <attvalue for="0" value="118" />
+        </attvalues>
+      </node>
+      <node id="benjen stark" label="benjen stark">
+        <attvalues>
+          <attvalue for="0" value="134" />
+        </attvalues>
+      </node>
+      <node id="pyp" label="pyp">
+        <attvalues>
+          <attvalue for="0" value="105" />
+        </attvalues>
+      </node>
+      <node id="doreah" label="doreah">
+        <attvalues>
+          <attvalue for="0" value="109" />
+        </attvalues>
+      </node>
+      <node id="qotho" label="qotho">
+        <attvalues>
+          <attvalue for="0" value="78" />
+        </attvalues>
+      </node>
+      <node id="maester aemon" label="maester aemon">
+        <attvalues>
+          <attvalue for="0" value="108" />
+        </attvalues>
+      </node>
+      <node id="rodrik cassel" label="rodrik cassel">
+        <attvalues>
+          <attvalue for="0" value="128" />
+        </attvalues>
+      </node>
+      <node id="greatjon umber" label="greatjon umber">
+        <attvalues>
+          <attvalue for="0" value="89" />
+        </attvalues>
+      </node>
+      <node id="illyrio" label="illyrio">
+        <attvalues>
+          <attvalue for="0" value="66" />
+        </attvalues>
+      </node>
+      <node id="lord varys" label="lord varys">
+        <attvalues>
+          <attvalue for="0" value="65" />
+        </attvalues>
+      </node>
+      <node id="barristan selmy" label="barristan selmy">
+        <attvalues>
+          <attvalue for="0" value="126" />
+        </attvalues>
+      </node>
+      <node id="osha" label="osha">
+        <attvalues>
+          <attvalue for="0" value="109" />
+        </attvalues>
+      </node>
+      <node id="walder frey" label="walder frey">
+        <attvalues>
+          <attvalue for="0" value="39" />
+        </attvalues>
+      </node>
+      <node id="drogo" label="drogo">
+        <attvalues>
+          <attvalue for="0" value="85" />
+        </attvalues>
+      </node>
+      <node id="wine merchant" label="wine merchant">
+        <attvalues>
+          <attvalue for="0" value="62" />
+        </attvalues>
+      </node>
+      <node id="kevan lannister" label="kevan lannister">
+        <attvalues>
+          <attvalue for="0" value="76" />
+        </attvalues>
+      </node>
+      <node id="yoren" label="yoren">
+        <attvalues>
+          <attvalue for="0" value="116" />
+        </attvalues>
+      </node>
+      <node id="irri" label="irri">
+        <attvalues>
+          <attvalue for="0" value="121" />
+        </attvalues>
+      </node>
+      <node id="alliser thorne" label="alliser thorne">
+        <attvalues>
+          <attvalue for="0" value="102" />
+        </attvalues>
+      </node>
+      <node id="mord" label="mord">
+        <attvalues>
+          <attvalue for="0" value="53" />
+        </attvalues>
+      </node>
+      <node id="robin arryn" label="robin arryn">
+        <attvalues>
+          <attvalue for="0" value="64" />
+        </attvalues>
+      </node>
+      <node id="mordane" label="mordane">
+        <attvalues>
+          <attvalue for="0" value="38" />
+        </attvalues>
+      </node>
+      <node id="meryn trant" label="meryn trant">
+        <attvalues>
+          <attvalue for="0" value="45" />
+        </attvalues>
+      </node>
+      <node id="marillion" label="marillion">
+        <attvalues>
+          <attvalue for="0" value="61" />
+        </attvalues>
+      </node>
+      <node id="king joffrey" label="king joffrey">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </node>
+      <node id="gendry baratheon" label="gendry baratheon">
+        <attvalues>
+          <attvalue for="0" value="61" />
+        </attvalues>
+      </node>
+      <node id="tobho mott" label="tobho mott">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </node>
+      <node id="sandor clegane" label="sandor clegane">
+        <attvalues>
+          <attvalue for="0" value="77" />
+        </attvalues>
+      </node>
+      <node id="lancel lannister" label="lancel lannister">
+        <attvalues>
+          <attvalue for="0" value="37" />
+        </attvalues>
+      </node>
+      <node id="mycah" label="mycah">
+        <attvalues>
+          <attvalue for="0" value="42" />
+        </attvalues>
+      </node>
+      <node id="lommy greenhands" label="lommy greenhands">
+        <attvalues>
+          <attvalue for="0" value="29" />
+        </attvalues>
+      </node>
+      <node id="hot pie" label="hot pie">
+        <attvalues>
+          <attvalue for="0" value="32" />
+        </attvalues>
+      </node>
+      <node id="rickon stark" label="rickon stark">
+        <attvalues>
+          <attvalue for="0" value="28" />
+        </attvalues>
+      </node>
+      <node id="othell yarwyck" label="othell yarwyck">
+        <attvalues>
+          <attvalue for="0" value="34" />
+        </attvalues>
+      </node>
+      <node id="vardis egen" label="vardis egen">
+        <attvalues>
+          <attvalue for="0" value="32" />
+        </attvalues>
+      </node>
+      <node id="knight" label="knight">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+      <node id="illyrio mopatis" label="illyrio mopatis">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </node>
+      <node id="luwin" label="luwin">
+        <attvalues>
+          <attvalue for="0" value="30" />
+        </attvalues>
+      </node>
+      <node id="old nan" label="old nan">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </node>
+      <node id="will" label="will">
+        <attvalues>
+          <attvalue for="0" value="40" />
+        </attvalues>
+      </node>
+      <node id="kings landing baker" label="kings landing baker">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </node>
+      <node id="stable boy" label="stable boy">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="hugh of vale" label="hugh of vale">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+      <node id="waymar royce" label="waymar royce">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </node>
+      <node id="gared" label="gared">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </node>
+      <node id="steward" label="steward">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </node>
+      <node id="lannister soldier" label="lannister soldier">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="jonos bracken" label="jonos bracken">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </node>
+      <node id="masha heddle" label="masha heddle">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </node>
+      <node id="janos slynt" label="janos slynt">
+        <attvalues>
+          <attvalue for="0" value="28" />
+        </attvalues>
+      </node>
+      <node id="mhaegen" label="mhaegen">
+        <attvalues>
+          <attvalue for="0" value="28" />
+        </attvalues>
+      </node>
+      <node id="pypar" label="pypar">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </node>
+      <node id="kings guard" label="kings guard">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </node>
+      <node id="knight of house whent" label="knight of house whent">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </node>
+      <node id="nights watcher" label="nights watcher">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </node>
+      <node id="street urchin" label="street urchin">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </node>
+      <node id="ser vardis" label="ser vardis">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </node>
+      <node id="lannister scout" label="lannister scout">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </node>
+      <node id="leo lefford" label="leo lefford">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </node>
+      <node id="addam marbrand" label="addam marbrand">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </node>
+      <node id="kings landing page" label="kings landing page">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="eddard stark" target="robert baratheon" id="0" weight="211" />
+      <edge source="eddard stark" target="petyr baelish" id="1" weight="165" />
+      <edge source="eddard stark" target="cersei lannister" id="2" weight="144" />
+      <edge source="eddard stark" target="arya stark" id="3" weight="141" />
+      <edge source="eddard stark" target="catelyn stark" id="4" weight="77" />
+      <edge source="eddard stark" target="grand maester pycelle" id="5" weight="75" />
+      <edge source="eddard stark" target="jaime lannister" id="6" weight="69" />
+      <edge source="eddard stark" target="jon snow" id="7" weight="67" />
+      <edge source="eddard stark" target="varys" id="8" weight="63" />
+      <edge source="eddard stark" target="sansa stark" id="9" weight="59" />
+      <edge source="eddard stark" target="jory cassel" id="10" weight="55" />
+      <edge source="eddard stark" target="bran stark" id="11" weight="35" />
+      <edge source="eddard stark" target="tyrion lannister" id="12" weight="32" />
+      <edge source="eddard stark" target="lord varys" id="13" weight="31" />
+      <edge source="eddard stark" target="robb stark" id="14" weight="31" />
+      <edge source="eddard stark" target="theon greyjoy" id="15" weight="30" />
+      <edge source="eddard stark" target="renly baratheon" id="16" weight="28" />
+      <edge source="eddard stark" target="barristan selmy" id="17" weight="27" />
+      <edge source="eddard stark" target="ros" id="18" weight="19" />
+      <edge source="eddard stark" target="gendry baratheon" id="19" weight="18" />
+      <edge source="eddard stark" target="daenerys targaryen" id="20" weight="17" />
+      <edge source="eddard stark" target="yoren" id="21" weight="16" />
+      <edge source="eddard stark" target="tobho mott" id="22" weight="16" />
+      <edge source="eddard stark" target="drogo" id="23" weight="15" />
+      <edge source="eddard stark" target="sam" id="24" weight="14" />
+      <edge source="eddard stark" target="septa mordane" id="25" weight="14" />
+      <edge source="eddard stark" target="benjen stark" id="26" weight="13" />
+      <edge source="eddard stark" target="will" id="27" weight="11" />
+      <edge source="eddard stark" target="rodrik cassel" id="28" weight="10" />
+      <edge source="eddard stark" target="hugh of vale" id="29" weight="10" />
+      <edge source="eddard stark" target="steward" id="30" weight="10" />
+      <edge source="eddard stark" target="janos slynt" id="31" weight="10" />
+      <edge source="eddard stark" target="mhaegen" id="32" weight="10" />
+      <edge source="eddard stark" target="viserys targaryen" id="33" weight="9" />
+      <edge source="eddard stark" target="robin arryn" id="34" weight="8" />
+      <edge source="eddard stark" target="jeor mormont" id="35" weight="8" />
+      <edge source="eddard stark" target="luwin" id="36" weight="7" />
+      <edge source="eddard stark" target="king joffrey" id="37" weight="7" />
+      <edge source="eddard stark" target="irri" id="38" weight="6" />
+      <edge source="eddard stark" target="tywin lannister" id="39" weight="6" />
+      <edge source="eddard stark" target="lysa arryn" id="40" weight="6" />
+      <edge source="eddard stark" target="joffrey lannister" id="41" weight="6" />
+      <edge source="eddard stark" target="lancel lannister" id="42" weight="6" />
+      <edge source="eddard stark" target="old nan" id="43" weight="6" />
+      <edge source="eddard stark" target="street urchin" id="44" weight="5" />
+      <edge source="eddard stark" target="sandor clegane" id="45" weight="5" />
+      <edge source="eddard stark" target="illyrio mopatis" id="46" weight="4" />
+      <edge source="eddard stark" target="marillion" id="47" weight="4" />
+      <edge source="eddard stark" target="stable boy" id="48" weight="4" />
+      <edge source="eddard stark" target="vardis egen" id="49" weight="3" />
+      <edge source="eddard stark" target="grenn" id="50" weight="3" />
+      <edge source="robert baratheon" target="cersei lannister" id="51" weight="94" />
+      <edge source="robert baratheon" target="barristan selmy" id="52" weight="31" />
+      <edge source="robert baratheon" target="arya stark" id="53" weight="30" />
+      <edge source="robert baratheon" target="tyrion lannister" id="54" weight="27" />
+      <edge source="robert baratheon" target="sansa stark" id="55" weight="24" />
+      <edge source="robert baratheon" target="jaime lannister" id="56" weight="22" />
+      <edge source="robert baratheon" target="renly baratheon" id="57" weight="21" />
+      <edge source="robert baratheon" target="lancel lannister" id="58" weight="15" />
+      <edge source="robert baratheon" target="petyr baelish" id="59" weight="15" />
+      <edge source="robert baratheon" target="jon snow" id="60" weight="15" />
+      <edge source="robert baratheon" target="catelyn stark" id="61" weight="11" />
+      <edge source="robert baratheon" target="varys" id="62" weight="11" />
+      <edge source="robert baratheon" target="daenerys targaryen" id="63" weight="10" />
+      <edge source="robert baratheon" target="joffrey lannister" id="64" weight="8" />
+      <edge source="robert baratheon" target="irri" id="65" weight="7" />
+      <edge source="robert baratheon" target="viserys targaryen" id="66" weight="7" />
+      <edge source="robert baratheon" target="mhaegen" id="67" weight="6" />
+      <edge source="robert baratheon" target="loras tyrell" id="68" weight="6" />
+      <edge source="robert baratheon" target="sandor clegane" id="69" weight="6" />
+      <edge source="robert baratheon" target="steward" id="70" weight="6" />
+      <edge source="robert baratheon" target="ros" id="71" weight="5" />
+      <edge source="robert baratheon" target="jorah mormont" id="72" weight="5" />
+      <edge source="robert baratheon" target="robb stark" id="73" weight="4" />
+      <edge source="robert baratheon" target="grand maester pycelle" id="74" weight="4" />
+      <edge source="robert baratheon" target="sam" id="75" weight="3" />
+      <edge source="robert baratheon" target="lysa arryn" id="76" weight="3" />
+      <edge source="robert baratheon" target="bran stark" id="77" weight="3" />
+      <edge source="daenerys targaryen" target="jorah mormont" id="78" weight="169" />
+      <edge source="daenerys targaryen" target="viserys targaryen" id="79" weight="78" />
+      <edge source="daenerys targaryen" target="mirri maz duur" id="80" weight="53" />
+      <edge source="daenerys targaryen" target="doreah" id="81" weight="36" />
+      <edge source="daenerys targaryen" target="qotho" id="82" weight="36" />
+      <edge source="daenerys targaryen" target="drogo" id="83" weight="29" />
+      <edge source="daenerys targaryen" target="wine merchant" id="84" weight="29" />
+      <edge source="daenerys targaryen" target="jon snow" id="85" weight="27" />
+      <edge source="daenerys targaryen" target="tyrion lannister" id="86" weight="26" />
+      <edge source="daenerys targaryen" target="rakharo" id="87" weight="23" />
+      <edge source="daenerys targaryen" target="irri" id="88" weight="20" />
+      <edge source="daenerys targaryen" target="catelyn stark" id="89" weight="16" />
+      <edge source="daenerys targaryen" target="illyrio" id="90" weight="15" />
+      <edge source="daenerys targaryen" target="sansa stark" id="91" weight="14" />
+      <edge source="daenerys targaryen" target="sam" id="92" weight="13" />
+      <edge source="daenerys targaryen" target="sandor clegane" id="93" weight="12" />
+      <edge source="daenerys targaryen" target="petyr baelish" id="94" weight="12" />
+      <edge source="daenerys targaryen" target="jeor mormont" id="95" weight="10" />
+      <edge source="daenerys targaryen" target="tywin lannister" id="96" weight="10" />
+      <edge source="daenerys targaryen" target="alliser thorne" id="97" weight="10" />
+      <edge source="daenerys targaryen" target="maester aemon" id="98" weight="9" />
+      <edge source="daenerys targaryen" target="grand maester pycelle" id="99" weight="8" />
+      <edge source="daenerys targaryen" target="shae" id="100" weight="7" />
+      <edge source="daenerys targaryen" target="grenn" id="101" weight="7" />
+      <edge source="daenerys targaryen" target="robb stark" id="102" weight="5" />
+      <edge source="daenerys targaryen" target="lord varys" id="103" weight="5" />
+      <edge source="daenerys targaryen" target="ros" id="104" weight="5" />
+      <edge source="daenerys targaryen" target="jaime lannister" id="105" weight="5" />
+      <edge source="daenerys targaryen" target="cersei lannister" id="106" weight="4" />
+      <edge source="daenerys targaryen" target="kevan lannister" id="107" weight="3" />
+      <edge source="daenerys targaryen" target="benjen stark" id="108" weight="3" />
+      <edge source="daenerys targaryen" target="rodrik cassel" id="109" weight="3" />
+      <edge source="daenerys targaryen" target="pyp" id="110" weight="3" />
+      <edge source="daenerys targaryen" target="king joffrey" id="111" weight="3" />
+      <edge source="jorah mormont" target="viserys targaryen" id="112" weight="79" />
+      <edge source="jorah mormont" target="rakharo" id="113" weight="41" />
+      <edge source="jorah mormont" target="tyrion lannister" id="114" weight="30" />
+      <edge source="jorah mormont" target="irri" id="115" weight="27" />
+      <edge source="jorah mormont" target="wine merchant" id="116" weight="23" />
+      <edge source="jorah mormont" target="mirri maz duur" id="117" weight="21" />
+      <edge source="jorah mormont" target="qotho" id="118" weight="16" />
+      <edge source="jorah mormont" target="shae" id="119" weight="11" />
+      <edge source="jorah mormont" target="jeor mormont" id="120" weight="9" />
+      <edge source="jorah mormont" target="illyrio" id="121" weight="8" />
+      <edge source="jorah mormont" target="jon snow" id="122" weight="7" />
+      <edge source="jorah mormont" target="jaime lannister" id="123" weight="6" />
+      <edge source="jorah mormont" target="doreah" id="124" weight="6" />
+      <edge source="jorah mormont" target="maester aemon" id="125" weight="5" />
+      <edge source="jorah mormont" target="tywin lannister" id="126" weight="5" />
+      <edge source="jorah mormont" target="syrio forel" id="127" weight="5" />
+      <edge source="jorah mormont" target="alliser thorne" id="128" weight="5" />
+      <edge source="jorah mormont" target="joffrey lannister" id="129" weight="5" />
+      <edge source="jorah mormont" target="drogo" id="130" weight="4" />
+      <edge source="jorah mormont" target="petyr baelish" id="131" weight="4" />
+      <edge source="jorah mormont" target="mord" id="132" weight="4" />
+      <edge source="jorah mormont" target="sansa stark" id="133" weight="3" />
+      <edge source="jorah mormont" target="grenn" id="134" weight="3" />
+      <edge source="petyr baelish" target="varys" id="135" weight="81" />
+      <edge source="petyr baelish" target="grand maester pycelle" id="136" weight="39" />
+      <edge source="petyr baelish" target="catelyn stark" id="137" weight="37" />
+      <edge source="petyr baelish" target="sansa stark" id="138" weight="30" />
+      <edge source="petyr baelish" target="ros" id="139" weight="24" />
+      <edge source="petyr baelish" target="renly baratheon" id="140" weight="21" />
+      <edge source="petyr baelish" target="cersei lannister" id="141" weight="20" />
+      <edge source="petyr baelish" target="jory cassel" id="142" weight="18" />
+      <edge source="petyr baelish" target="jaime lannister" id="143" weight="16" />
+      <edge source="petyr baelish" target="tyrion lannister" id="144" weight="14" />
+      <edge source="petyr baelish" target="jon snow" id="145" weight="11" />
+      <edge source="petyr baelish" target="septa mordane" id="146" weight="7" />
+      <edge source="petyr baelish" target="alliser thorne" id="147" weight="7" />
+      <edge source="petyr baelish" target="jeor mormont" id="148" weight="7" />
+      <edge source="petyr baelish" target="theon greyjoy" id="149" weight="6" />
+      <edge source="petyr baelish" target="grenn" id="150" weight="5" />
+      <edge source="petyr baelish" target="osha" id="151" weight="5" />
+      <edge source="petyr baelish" target="hugh of vale" id="152" weight="5" />
+      <edge source="petyr baelish" target="sam" id="153" weight="5" />
+      <edge source="petyr baelish" target="drogo" id="154" weight="5" />
+      <edge source="petyr baelish" target="illyrio mopatis" id="155" weight="5" />
+      <edge source="petyr baelish" target="mhaegen" id="156" weight="5" />
+      <edge source="petyr baelish" target="yoren" id="157" weight="4" />
+      <edge source="petyr baelish" target="janos slynt" id="158" weight="4" />
+      <edge source="petyr baelish" target="arya stark" id="159" weight="4" />
+      <edge source="petyr baelish" target="lysa arryn" id="160" weight="3" />
+      <edge source="cersei lannister" target="jaime lannister" id="161" weight="70" />
+      <edge source="cersei lannister" target="sansa stark" id="162" weight="44" />
+      <edge source="cersei lannister" target="catelyn stark" id="163" weight="36" />
+      <edge source="cersei lannister" target="joffrey lannister" id="164" weight="34" />
+      <edge source="cersei lannister" target="arya stark" id="165" weight="27" />
+      <edge source="cersei lannister" target="tyrion lannister" id="166" weight="19" />
+      <edge source="cersei lannister" target="barristan selmy" id="167" weight="17" />
+      <edge source="cersei lannister" target="robb stark" id="168" weight="12" />
+      <edge source="cersei lannister" target="grand maester pycelle" id="169" weight="11" />
+      <edge source="cersei lannister" target="tywin lannister" id="170" weight="7" />
+      <edge source="cersei lannister" target="king joffrey" id="171" weight="7" />
+      <edge source="cersei lannister" target="mhaegen" id="172" weight="7" />
+      <edge source="cersei lannister" target="loras tyrell" id="173" weight="7" />
+      <edge source="cersei lannister" target="jon snow" id="174" weight="7" />
+      <edge source="cersei lannister" target="drogo" id="175" weight="6" />
+      <edge source="cersei lannister" target="ros" id="176" weight="6" />
+      <edge source="cersei lannister" target="maester luwin" id="177" weight="5" />
+      <edge source="cersei lannister" target="marillion" id="178" weight="5" />
+      <edge source="cersei lannister" target="bran stark" id="179" weight="4" />
+      <edge source="cersei lannister" target="septa mordane" id="180" weight="4" />
+      <edge source="cersei lannister" target="rodrik cassel" id="181" weight="4" />
+      <edge source="cersei lannister" target="renly baratheon" id="182" weight="4" />
+      <edge source="cersei lannister" target="benjen stark" id="183" weight="3" />
+      <edge source="cersei lannister" target="kings landing page" id="184" weight="3" />
+      <edge source="arya stark" target="sansa stark" id="185" weight="59" />
+      <edge source="arya stark" target="syrio forel" id="186" weight="55" />
+      <edge source="arya stark" target="joffrey lannister" id="187" weight="36" />
+      <edge source="arya stark" target="jon snow" id="188" weight="35" />
+      <edge source="arya stark" target="septa mordane" id="189" weight="22" />
+      <edge source="arya stark" target="jory cassel" id="190" weight="20" />
+      <edge source="arya stark" target="meryn trant" id="191" weight="16" />
+      <edge source="arya stark" target="mycah" id="192" weight="13" />
+      <edge source="arya stark" target="kings landing baker" id="193" weight="11" />
+      <edge source="arya stark" target="stable boy" id="194" weight="11" />
+      <edge source="arya stark" target="yoren" id="195" weight="11" />
+      <edge source="arya stark" target="gendry baratheon" id="196" weight="10" />
+      <edge source="arya stark" target="catelyn stark" id="197" weight="9" />
+      <edge source="arya stark" target="street urchin" id="198" weight="8" />
+      <edge source="arya stark" target="tyrion lannister" id="199" weight="8" />
+      <edge source="arya stark" target="hot pie" id="200" weight="6" />
+      <edge source="arya stark" target="mord" id="201" weight="6" />
+      <edge source="arya stark" target="lord varys" id="202" weight="6" />
+      <edge source="arya stark" target="robb stark" id="203" weight="6" />
+      <edge source="arya stark" target="jaime lannister" id="204" weight="6" />
+      <edge source="arya stark" target="sam" id="205" weight="6" />
+      <edge source="arya stark" target="old nan" id="206" weight="5" />
+      <edge source="arya stark" target="kings guard" id="207" weight="5" />
+      <edge source="arya stark" target="grand maester pycelle" id="208" weight="5" />
+      <edge source="arya stark" target="lommy greenhands" id="209" weight="5" />
+      <edge source="arya stark" target="jeor mormont" id="210" weight="4" />
+      <edge source="arya stark" target="bran stark" id="211" weight="4" />
+      <edge source="arya stark" target="viserys targaryen" id="212" weight="4" />
+      <edge source="arya stark" target="varys" id="213" weight="3" />
+      <edge source="arya stark" target="vardis egen" id="214" weight="3" />
+      <edge source="sam" target="jon snow" id="215" weight="138" />
+      <edge source="sam" target="grenn" id="216" weight="33" />
+      <edge source="sam" target="alliser thorne" id="217" weight="21" />
+      <edge source="sam" target="jeor mormont" id="218" weight="19" />
+      <edge source="sam" target="pyp" id="219" weight="18" />
+      <edge source="sam" target="pypar" id="220" weight="9" />
+      <edge source="sam" target="maester aemon" id="221" weight="9" />
+      <edge source="sam" target="othell yarwyck" id="222" weight="9" />
+      <edge source="sam" target="mirri maz duur" id="223" weight="6" />
+      <edge source="sam" target="shae" id="224" weight="6" />
+      <edge source="sam" target="osha" id="225" weight="6" />
+      <edge source="sam" target="renly baratheon" id="226" weight="6" />
+      <edge source="sam" target="viserys targaryen" id="227" weight="6" />
+      <edge source="sam" target="tyrion lannister" id="228" weight="6" />
+      <edge source="sam" target="maester luwin" id="229" weight="5" />
+      <edge source="sam" target="robb stark" id="230" weight="4" />
+      <edge source="sam" target="catelyn stark" id="231" weight="3" />
+      <edge source="jon snow" target="tyrion lannister" id="232" weight="63" />
+      <edge source="jon snow" target="jeor mormont" id="233" weight="60" />
+      <edge source="jon snow" target="grenn" id="234" weight="50" />
+      <edge source="jon snow" target="catelyn stark" id="235" weight="40" />
+      <edge source="jon snow" target="benjen stark" id="236" weight="36" />
+      <edge source="jon snow" target="maester aemon" id="237" weight="35" />
+      <edge source="jon snow" target="pyp" id="238" weight="33" />
+      <edge source="jon snow" target="robb stark" id="239" weight="31" />
+      <edge source="jon snow" target="alliser thorne" id="240" weight="25" />
+      <edge source="jon snow" target="jaime lannister" id="241" weight="21" />
+      <edge source="jon snow" target="bran stark" id="242" weight="18" />
+      <edge source="jon snow" target="theon greyjoy" id="243" weight="16" />
+      <edge source="jon snow" target="othell yarwyck" id="244" weight="11" />
+      <edge source="jon snow" target="maester luwin" id="245" weight="9" />
+      <edge source="jon snow" target="nights watcher" id="246" weight="8" />
+      <edge source="jon snow" target="pypar" id="247" weight="8" />
+      <edge source="jon snow" target="will" id="248" weight="8" />
+      <edge source="jon snow" target="septa mordane" id="249" weight="8" />
+      <edge source="jon snow" target="gared" id="250" weight="7" />
+      <edge source="jon snow" target="syrio forel" id="251" weight="6" />
+      <edge source="jon snow" target="sansa stark" id="252" weight="6" />
+      <edge source="jon snow" target="osha" id="253" weight="5" />
+      <edge source="jon snow" target="viserys targaryen" id="254" weight="5" />
+      <edge source="jon snow" target="yoren" id="255" weight="5" />
+      <edge source="jon snow" target="mirri maz duur" id="256" weight="5" />
+      <edge source="jon snow" target="shae" id="257" weight="5" />
+      <edge source="jon snow" target="waymar royce" id="258" weight="5" />
+      <edge source="jon snow" target="walder frey" id="259" weight="4" />
+      <edge source="jon snow" target="drogo" id="260" weight="4" />
+      <edge source="jon snow" target="gendry baratheon" id="261" weight="4" />
+      <edge source="jon snow" target="grand maester pycelle" id="262" weight="4" />
+      <edge source="jon snow" target="jory cassel" id="263" weight="3" />
+      <edge source="shae" target="tyrion lannister" id="264" weight="99" />
+      <edge source="shae" target="bronn" id="265" weight="54" />
+      <edge source="shae" target="rakharo" id="266" weight="6" />
+      <edge source="shae" target="grenn" id="267" weight="4" />
+      <edge source="tyrion lannister" target="bronn" id="268" weight="88" />
+      <edge source="tyrion lannister" target="tywin lannister" id="269" weight="66" />
+      <edge source="tyrion lannister" target="catelyn stark" id="270" weight="56" />
+      <edge source="tyrion lannister" target="lysa arryn" id="271" weight="54" />
+      <edge source="tyrion lannister" target="benjen stark" id="272" weight="36" />
+      <edge source="tyrion lannister" target="kevan lannister" id="273" weight="29" />
+      <edge source="tyrion lannister" target="jaime lannister" id="274" weight="29" />
+      <edge source="tyrion lannister" target="yoren" id="275" weight="27" />
+      <edge source="tyrion lannister" target="robb stark" id="276" weight="27" />
+      <edge source="tyrion lannister" target="theon greyjoy" id="277" weight="26" />
+      <edge source="tyrion lannister" target="mord" id="278" weight="25" />
+      <edge source="tyrion lannister" target="rodrik cassel" id="279" weight="21" />
+      <edge source="tyrion lannister" target="bran stark" id="280" weight="20" />
+      <edge source="tyrion lannister" target="jeor mormont" id="281" weight="20" />
+      <edge source="tyrion lannister" target="ros" id="282" weight="19" />
+      <edge source="tyrion lannister" target="robin arryn" id="283" weight="15" />
+      <edge source="tyrion lannister" target="maester aemon" id="284" weight="15" />
+      <edge source="tyrion lannister" target="maester luwin" id="285" weight="14" />
+      <edge source="tyrion lannister" target="joffrey lannister" id="286" weight="14" />
+      <edge source="tyrion lannister" target="viserys targaryen" id="287" weight="11" />
+      <edge source="tyrion lannister" target="lannister soldier" id="288" weight="10" />
+      <edge source="tyrion lannister" target="masha heddle" id="289" weight="10" />
+      <edge source="tyrion lannister" target="knight" id="290" weight="10" />
+      <edge source="tyrion lannister" target="grenn" id="291" weight="10" />
+      <edge source="tyrion lannister" target="syrio forel" id="292" weight="9" />
+      <edge source="tyrion lannister" target="sandor clegane" id="293" weight="9" />
+      <edge source="tyrion lannister" target="alliser thorne" id="294" weight="9" />
+      <edge source="tyrion lannister" target="rakharo" id="295" weight="9" />
+      <edge source="tyrion lannister" target="ser vardis" id="296" weight="7" />
+      <edge source="tyrion lannister" target="mordane" id="297" weight="7" />
+      <edge source="tyrion lannister" target="marillion" id="298" weight="7" />
+      <edge source="tyrion lannister" target="irri" id="299" weight="7" />
+      <edge source="tyrion lannister" target="addam marbrand" id="300" weight="6" />
+      <edge source="tyrion lannister" target="leo lefford" id="301" weight="6" />
+      <edge source="tyrion lannister" target="sansa stark" id="302" weight="6" />
+      <edge source="tyrion lannister" target="knight of house whent" id="303" weight="6" />
+      <edge source="tyrion lannister" target="steward" id="304" weight="6" />
+      <edge source="tyrion lannister" target="vardis egen" id="305" weight="6" />
+      <edge source="tyrion lannister" target="qotho" id="306" weight="3" />
+      <edge source="robb stark" target="catelyn stark" id="307" weight="97" />
+      <edge source="robb stark" target="theon greyjoy" id="308" weight="78" />
+      <edge source="robb stark" target="bran stark" id="309" weight="49" />
+      <edge source="robb stark" target="greatjon umber" id="310" weight="34" />
+      <edge source="robb stark" target="maester luwin" id="311" weight="19" />
+      <edge source="robb stark" target="rodrik cassel" id="312" weight="17" />
+      <edge source="robb stark" target="sansa stark" id="313" weight="13" />
+      <edge source="robb stark" target="jonos bracken" id="314" weight="10" />
+      <edge source="robb stark" target="jaime lannister" id="315" weight="9" />
+      <edge source="robb stark" target="irri" id="316" weight="8" />
+      <edge source="robb stark" target="old nan" id="317" weight="8" />
+      <edge source="robb stark" target="lannister scout" id="318" weight="7" />
+      <edge source="robb stark" target="benjen stark" id="319" weight="7" />
+      <edge source="robb stark" target="grand maester pycelle" id="320" weight="6" />
+      <edge source="robb stark" target="sandor clegane" id="321" weight="6" />
+      <edge source="robb stark" target="maester aemon" id="322" weight="5" />
+      <edge source="robb stark" target="varys" id="323" weight="5" />
+      <edge source="robb stark" target="mord" id="324" weight="5" />
+      <edge source="robb stark" target="robin arryn" id="325" weight="5" />
+      <edge source="robb stark" target="kings landing baker" id="326" weight="5" />
+      <edge source="robb stark" target="lysa arryn" id="327" weight="4" />
+      <edge source="robb stark" target="osha" id="328" weight="4" />
+      <edge source="catelyn stark" target="jaime lannister" id="329" weight="59" />
+      <edge source="catelyn stark" target="rodrik cassel" id="330" weight="35" />
+      <edge source="catelyn stark" target="theon greyjoy" id="331" weight="31" />
+      <edge source="catelyn stark" target="walder frey" id="332" weight="30" />
+      <edge source="catelyn stark" target="bran stark" id="333" weight="20" />
+      <edge source="catelyn stark" target="sansa stark" id="334" weight="19" />
+      <edge source="catelyn stark" target="greatjon umber" id="335" weight="16" />
+      <edge source="catelyn stark" target="maester luwin" id="336" weight="16" />
+      <edge source="catelyn stark" target="varys" id="337" weight="13" />
+      <edge source="catelyn stark" target="vardis egen" id="338" weight="13" />
+      <edge source="catelyn stark" target="lysa arryn" id="339" weight="13" />
+      <edge source="catelyn stark" target="luwin" id="340" weight="12" />
+      <edge source="catelyn stark" target="doreah" id="341" weight="10" />
+      <edge source="catelyn stark" target="viserys targaryen" id="342" weight="9" />
+      <edge source="catelyn stark" target="benjen stark" id="343" weight="9" />
+      <edge source="catelyn stark" target="knight of house whent" id="344" weight="9" />
+      <edge source="catelyn stark" target="robin arryn" id="345" weight="6" />
+      <edge source="catelyn stark" target="joffrey lannister" id="346" weight="6" />
+      <edge source="catelyn stark" target="alliser thorne" id="347" weight="6" />
+      <edge source="catelyn stark" target="jeor mormont" id="348" weight="5" />
+      <edge source="catelyn stark" target="marillion" id="349" weight="5" />
+      <edge source="catelyn stark" target="barristan selmy" id="350" weight="4" />
+      <edge source="catelyn stark" target="irri" id="351" weight="4" />
+      <edge source="catelyn stark" target="illyrio" id="352" weight="4" />
+      <edge source="catelyn stark" target="rickon stark" id="353" weight="4" />
+      <edge source="catelyn stark" target="maester aemon" id="354" weight="4" />
+      <edge source="catelyn stark" target="will" id="355" weight="3" />
+      <edge source="catelyn stark" target="jory cassel" id="356" weight="3" />
+      <edge source="bronn" target="lannister soldier" id="357" weight="10" />
+      <edge source="bronn" target="tywin lannister" id="358" weight="9" />
+      <edge source="varys" target="illyrio mopatis" id="359" weight="13" />
+      <edge source="varys" target="ros" id="360" weight="10" />
+      <edge source="varys" target="grand maester pycelle" id="361" weight="6" />
+      <edge source="varys" target="theon greyjoy" id="362" weight="6" />
+      <edge source="varys" target="jaime lannister" id="363" weight="5" />
+      <edge source="varys" target="yoren" id="364" weight="5" />
+      <edge source="varys" target="janos slynt" id="365" weight="3" />
+      <edge source="viserys targaryen" target="illyrio" id="366" weight="34" />
+      <edge source="viserys targaryen" target="doreah" id="367" weight="28" />
+      <edge source="viserys targaryen" target="sansa stark" id="368" weight="16" />
+      <edge source="viserys targaryen" target="syrio forel" id="369" weight="7" />
+      <edge source="viserys targaryen" target="joffrey lannister" id="370" weight="6" />
+      <edge source="viserys targaryen" target="luwin" id="371" weight="6" />
+      <edge source="viserys targaryen" target="septa mordane" id="372" weight="6" />
+      <edge source="viserys targaryen" target="irri" id="373" weight="6" />
+      <edge source="viserys targaryen" target="grenn" id="374" weight="5" />
+      <edge source="viserys targaryen" target="pyp" id="375" weight="4" />
+      <edge source="viserys targaryen" target="alliser thorne" id="376" weight="3" />
+      <edge source="viserys targaryen" target="mord" id="377" weight="3" />
+      <edge source="theon greyjoy" target="ros" id="378" weight="52" />
+      <edge source="theon greyjoy" target="bran stark" id="379" weight="39" />
+      <edge source="theon greyjoy" target="osha" id="380" weight="31" />
+      <edge source="theon greyjoy" target="greatjon umber" id="381" weight="24" />
+      <edge source="theon greyjoy" target="maester luwin" id="382" weight="18" />
+      <edge source="theon greyjoy" target="sansa stark" id="383" weight="9" />
+      <edge source="theon greyjoy" target="joffrey lannister" id="384" weight="6" />
+      <edge source="theon greyjoy" target="jaime lannister" id="385" weight="4" />
+      <edge source="theon greyjoy" target="irri" id="386" weight="4" />
+      <edge source="theon greyjoy" target="jonos bracken" id="387" weight="3" />
+      <edge source="grand maester pycelle" target="sansa stark" id="388" weight="19" />
+      <edge source="grand maester pycelle" target="ros" id="389" weight="13" />
+      <edge source="grand maester pycelle" target="renly baratheon" id="390" weight="11" />
+      <edge source="grand maester pycelle" target="greatjon umber" id="391" weight="5" />
+      <edge source="grand maester pycelle" target="barristan selmy" id="392" weight="5" />
+      <edge source="grand maester pycelle" target="jeor mormont" id="393" weight="4" />
+      <edge source="grand maester pycelle" target="king joffrey" id="394" weight="3" />
+      <edge source="jaime lannister" target="jory cassel" id="395" weight="34" />
+      <edge source="jaime lannister" target="tywin lannister" id="396" weight="18" />
+      <edge source="jaime lannister" target="barristan selmy" id="397" weight="10" />
+      <edge source="jaime lannister" target="ros" id="398" weight="5" />
+      <edge source="jaime lannister" target="bran stark" id="399" weight="5" />
+      <edge source="jaime lannister" target="lancel lannister" id="400" weight="5" />
+      <edge source="jaime lannister" target="rodrik cassel" id="401" weight="4" />
+      <edge source="jaime lannister" target="pyp" id="402" weight="3" />
+      <edge source="tywin lannister" target="kevan lannister" id="403" weight="28" />
+      <edge source="tywin lannister" target="rodrik cassel" id="404" weight="5" />
+      <edge source="tywin lannister" target="qotho" id="405" weight="5" />
+      <edge source="tywin lannister" target="addam marbrand" id="406" weight="5" />
+      <edge source="tywin lannister" target="leo lefford" id="407" weight="4" />
+      <edge source="jeor mormont" target="maester aemon" id="408" weight="14" />
+      <edge source="jeor mormont" target="othell yarwyck" id="409" weight="14" />
+      <edge source="jeor mormont" target="lord varys" id="410" weight="6" />
+      <edge source="jeor mormont" target="nights watcher" id="411" weight="6" />
+      <edge source="jeor mormont" target="alliser thorne" id="412" weight="6" />
+      <edge source="jeor mormont" target="walder frey" id="413" weight="5" />
+      <edge source="jeor mormont" target="gendry baratheon" id="414" weight="5" />
+      <edge source="jeor mormont" target="sansa stark" id="415" weight="3" />
+      <edge source="jeor mormont" target="wine merchant" id="416" weight="3" />
+      <edge source="sansa stark" target="joffrey lannister" id="417" weight="57" />
+      <edge source="sansa stark" target="septa mordane" id="418" weight="57" />
+      <edge source="sansa stark" target="mordane" id="419" weight="22" />
+      <edge source="sansa stark" target="king joffrey" id="420" weight="19" />
+      <edge source="sansa stark" target="sandor clegane" id="421" weight="15" />
+      <edge source="sansa stark" target="mycah" id="422" weight="14" />
+      <edge source="sansa stark" target="renly baratheon" id="423" weight="11" />
+      <edge source="sansa stark" target="doreah" id="424" weight="9" />
+      <edge source="sansa stark" target="ros" id="425" weight="9" />
+      <edge source="sansa stark" target="barristan selmy" id="426" weight="7" />
+      <edge source="sansa stark" target="kings landing page" id="427" weight="6" />
+      <edge source="sansa stark" target="benjen stark" id="428" weight="6" />
+      <edge source="sansa stark" target="janos slynt" id="429" weight="6" />
+      <edge source="sansa stark" target="syrio forel" id="430" weight="5" />
+      <edge source="sansa stark" target="yoren" id="431" weight="5" />
+      <edge source="sansa stark" target="greatjon umber" id="432" weight="4" />
+      <edge source="sansa stark" target="maester luwin" id="433" weight="4" />
+      <edge source="sansa stark" target="marillion" id="434" weight="3" />
+      <edge source="joffrey lannister" target="marillion" id="435" weight="20" />
+      <edge source="joffrey lannister" target="mycah" id="436" weight="15" />
+      <edge source="joffrey lannister" target="sandor clegane" id="437" weight="13" />
+      <edge source="joffrey lannister" target="mordane" id="438" weight="6" />
+      <edge source="joffrey lannister" target="ros" id="439" weight="5" />
+      <edge source="joffrey lannister" target="septa mordane" id="440" weight="3" />
+      <edge source="joffrey lannister" target="jonos bracken" id="441" weight="3" />
+      <edge source="septa mordane" target="syrio forel" id="442" weight="6" />
+      <edge source="septa mordane" target="doreah" id="443" weight="5" />
+      <edge source="septa mordane" target="janos slynt" id="444" weight="5" />
+      <edge source="septa mordane" target="gared" id="445" weight="4" />
+      <edge source="jory cassel" target="hugh of vale" id="446" weight="11" />
+      <edge source="jory cassel" target="yoren" id="447" weight="6" />
+      <edge source="jory cassel" target="gendry baratheon" id="448" weight="5" />
+      <edge source="jory cassel" target="tobho mott" id="449" weight="5" />
+      <edge source="jory cassel" target="vardis egen" id="450" weight="4" />
+      <edge source="syrio forel" target="meryn trant" id="451" weight="20" />
+      <edge source="syrio forel" target="kings guard" id="452" weight="9" />
+      <edge source="syrio forel" target="mord" id="453" weight="5" />
+      <edge source="lysa arryn" target="robin arryn" id="454" weight="23" />
+      <edge source="lysa arryn" target="knight" id="455" weight="13" />
+      <edge source="lysa arryn" target="ser vardis" id="456" weight="7" />
+      <edge source="lysa arryn" target="mord" id="457" weight="5" />
+      <edge source="lysa arryn" target="loras tyrell" id="458" weight="5" />
+      <edge source="lysa arryn" target="renly baratheon" id="459" weight="4" />
+      <edge source="lysa arryn" target="maester luwin" id="460" weight="3" />
+      <edge source="mirri maz duur" target="rakharo" id="461" weight="9" />
+      <edge source="mirri maz duur" target="qotho" id="462" weight="8" />
+      <edge source="ros" target="maester luwin" id="463" weight="5" />
+      <edge source="ros" target="bran stark" id="464" weight="4" />
+      <edge source="ros" target="osha" id="465" weight="4" />
+      <edge source="maester luwin" target="bran stark" id="466" weight="51" />
+      <edge source="maester luwin" target="osha" id="467" weight="19" />
+      <edge source="maester luwin" target="robin arryn" id="468" weight="4" />
+      <edge source="maester luwin" target="rodrik cassel" id="469" weight="3" />
+      <edge source="bran stark" target="osha" id="470" weight="25" />
+      <edge source="bran stark" target="rickon stark" id="471" weight="14" />
+      <edge source="bran stark" target="old nan" id="472" weight="12" />
+      <edge source="bran stark" target="rodrik cassel" id="473" weight="8" />
+      <edge source="grenn" target="pyp" id="474" weight="36" />
+      <edge source="grenn" target="alliser thorne" id="475" weight="7" />
+      <edge source="grenn" target="nights watcher" id="476" weight="4" />
+      <edge source="renly baratheon" target="loras tyrell" id="477" weight="46" />
+      <edge source="renly baratheon" target="barristan selmy" id="478" weight="3" />
+      <edge source="rakharo" target="irri" id="479" weight="20" />
+      <edge source="rakharo" target="wine merchant" id="480" weight="7" />
+      <edge source="rakharo" target="maester aemon" id="481" weight="3" />
+      <edge source="benjen stark" target="yoren" id="482" weight="21" />
+      <edge source="pyp" target="nights watcher" id="483" weight="5" />
+      <edge source="pyp" target="alliser thorne" id="484" weight="3" />
+      <edge source="doreah" target="irri" id="485" weight="7" />
+      <edge source="doreah" target="rodrik cassel" id="486" weight="4" />
+      <edge source="doreah" target="sandor clegane" id="487" weight="4" />
+      <edge source="qotho" target="drogo" id="488" weight="6" />
+      <edge source="qotho" target="kevan lannister" id="489" weight="4" />
+      <edge source="maester aemon" target="drogo" id="490" weight="5" />
+      <edge source="maester aemon" target="pypar" id="491" weight="4" />
+      <edge source="rodrik cassel" target="marillion" id="492" weight="9" />
+      <edge source="rodrik cassel" target="masha heddle" id="493" weight="5" />
+      <edge source="greatjon umber" target="lannister scout" id="494" weight="6" />
+      <edge source="illyrio" target="luwin" id="495" weight="5" />
+      <edge source="lord varys" target="barristan selmy" id="496" weight="6" />
+      <edge source="lord varys" target="drogo" id="497" weight="6" />
+      <edge source="lord varys" target="stable boy" id="498" weight="5" />
+      <edge source="barristan selmy" target="lancel lannister" id="499" weight="11" />
+      <edge source="barristan selmy" target="kings landing page" id="500" weight="5" />
+      <edge source="osha" target="rickon stark" id="501" weight="10" />
+      <edge source="drogo" target="king joffrey" id="502" weight="5" />
+      <edge source="kevan lannister" target="leo lefford" id="503" weight="6" />
+      <edge source="kevan lannister" target="addam marbrand" id="504" weight="6" />
+      <edge source="yoren" target="hot pie" id="505" weight="6" />
+      <edge source="yoren" target="lommy greenhands" id="506" weight="5" />
+      <edge source="yoren" target="irri" id="507" weight="5" />
+      <edge source="robin arryn" target="mordane" id="508" weight="3" />
+      <edge source="meryn trant" target="kings guard" id="509" weight="9" />
+      <edge source="marillion" target="masha heddle" id="510" weight="8" />
+      <edge source="king joffrey" target="kings landing page" id="511" weight="3" />
+      <edge source="gendry baratheon" target="tobho mott" id="512" weight="10" />
+      <edge source="gendry baratheon" target="hot pie" id="513" weight="5" />
+      <edge source="gendry baratheon" target="lommy greenhands" id="514" weight="4" />
+      <edge source="sandor clegane" target="jonos bracken" id="515" weight="7" />
+      <edge source="lommy greenhands" target="hot pie" id="516" weight="15" />
+      <edge source="vardis egen" target="steward" id="517" weight="3" />
+      <edge source="knight" target="ser vardis" id="518" weight="3" />
+      <edge source="will" target="waymar royce" id="519" weight="9" />
+      <edge source="will" target="gared" id="520" weight="9" />
+      <edge source="kings landing baker" target="street urchin" id="521" weight="5" />
+      <edge source="waymar royce" target="gared" id="522" weight="11" />
+      <edge source="leo lefford" target="addam marbrand" id="523" weight="5" />
+    </edges>
+  </graph>
+</gexf>
